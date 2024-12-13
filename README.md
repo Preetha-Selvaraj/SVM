@@ -66,6 +66,10 @@ cd svm
 ```bash
 jupyter notebook SVM_CODEFILE_23026653.ipynb
 ```
+## Plotly Visualizations
+
+Please note that the interactive Plotly visualizations used in the code are not rendered directly on GitHub due to platform limitations. However, the corresponding static images have been saved and can be found in the `Images` folder in this repository as `.png` files. You can view these images for reference.
+
 ## Accessibility Features
 
 - The tutorial video includes subtitles.  
