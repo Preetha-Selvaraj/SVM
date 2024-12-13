@@ -44,7 +44,7 @@ To run the code, ensure you have the following installed:
 You can install these using the command:
 
 ```bash
-pip install scikit-learn numpy pandas matplotlib
+pip install scikit-learn numpy pandas matplotlib plotly
 ```
 
 ## How to Use This Repository
