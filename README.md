@@ -52,7 +52,7 @@ pip install scikit-learn numpy pandas matplotlib
 **[Clone the repository to your local machine](#clone-the-repository-to-your-local-machine:)** 
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Preetha-Selvaraj/SVM.git
 ```
 **[Navigate to the directory:](#navigate-to-the-directory:)** 
 
@@ -62,7 +62,7 @@ cd svm
 **[Open the Jupyter Notebook to follow the code demonstrations:](#Open-the-Jupyter-Notebook-to-follow-the-code-demonstrations:)** 
 
 ```bash
-jupyter notebook SVM_Tutorial.ipynb
+jupyter notebook SVM_CODEFILE_23026653.ipynb
 ```
 ## Accessibility Features
 
