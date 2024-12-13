@@ -36,15 +36,17 @@ To run the code, ensure you have the following installed:
 - Python 3.x
 - Jupyter Notebook
 - Libraries:
-  - scikit-learn
-  - numpy
-  - pandas
-  - matplotlib
+  	- scikit-learn: For machine learning algorithms.
+	- numpy: For numerical operations.
+	- pandas: For data manipulation and analysis.
+	- matplotlib: For basic plotting.
+	- plotly: For interactive visualizations.
+	- kaleido: For saving Plotly figures as static images.
 
 You can install these using the command:
 
 ```bash
-pip install scikit-learn numpy pandas matplotlib plotly
+pip install scikit-learn numpy pandas matplotlib plotly kaleido
 ```
 
 ## How to Use This Repository
